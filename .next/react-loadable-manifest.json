@@ -10,5 +10,11 @@
     "files": [
       "static/chunks/_pages-dir-browser_node_modules_next_dist_pages__error_js.js"
     ]
+  },
+  "pages\\_app.tsx -> aos": {
+    "id": "pages\\_app.tsx -> aos",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_aos_dist_aos_js.js"
+    ]
   }
 }
